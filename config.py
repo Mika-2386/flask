@@ -1,0 +1,1 @@
+DATABASE_URI = "postgresql://mihail:Qwerty12345@localhost:5432/data_flask"
